@@ -1,0 +1,6 @@
+#FileLock
+#Mon Apr 16 20:25:21 MSK 2018
+hostName=10.240.18.236
+id=162cf7d521c931dfc8ee8bf56f97a7f0fbe7c9a4372
+method=file
+server=10.240.18.236\:57769
